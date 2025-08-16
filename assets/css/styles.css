@@ -1138,7 +1138,7 @@ p {
   background: #232323;
   padding: 20px 20px;
   border-radius: 4px;
-  flex: 1;
+  /* flex: 1; */
 }
 
 .section-eight .inner-box .inner-button a {
